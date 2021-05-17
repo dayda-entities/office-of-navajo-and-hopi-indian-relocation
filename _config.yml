@@ -12,7 +12,7 @@ source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
 profile_pic: >-
-  https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Flag_of_the_Hopi_Reservation.svg/1200px-Flag_of_the_Hopi_Reservation.svg.png
+  https://directory.dayda.org/assets/img/entities/office-of-navajo-and-hopi-indian-relocation.png
 favicon: /assets/img/favicon.png
 url: 'http://office-of-navajo-and-hopi-indian-relocation.dayda.org'
 encoding: utf-8
